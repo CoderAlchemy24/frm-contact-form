@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/CoderAlchemy24/frm-contact-form.git](https://github.com/CoderAlchemy24/frm-contact-form.git)
+- Live Site URL: [https://deluxe-tanuki-cdca5a.netlify.app/](https://deluxe-tanuki-cdca5a.netlify.app/)
 
 ### Built with
 
@@ -48,5 +48,5 @@ Users should be able to:
 
 ### Author
 
-- Website - [coderAlchemy24](https://www.your-site.com)
+- Website - [coderAlchemy24](https://github.com/CoderAlchemy24/coderalchemy24)
 
